@@ -48,7 +48,7 @@ Car buyers often face difficulty manually analyzing extensive COE premium datase
 ## Usage
 1. Clone this repository.
 2. Ensure Python 3.x and PostgreSQL are installed.
-3. Install required Python libraries as listed in `requirements.txt` (pandas, requests, pdfplumber, etc.).
+3. Install required Python libraries (pandas, requests, pdfplumber, etc.).
 4. Configure environment variables for API access keys in a `.env` file.
 5. Run the Jupyter notebook `COE Data Pipeline Source code.ipynb` to:
    - Extract and clean COE bidding data and car emission data
